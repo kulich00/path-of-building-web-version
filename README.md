@@ -2,7 +2,7 @@
 
 Веб-инструмент для импорта и просмотра сборок Path of Exile из кода Path of Building.
 
-**Онлайн-демо:** [path-of-building-web.lolkek22232.chatgpt.site](https://pob-web.lolkek22232.workers.dev)
+**Онлайн-демо:** (https://pob-web.lolkek22232.workers.dev)
 
 ## Возможности
 
